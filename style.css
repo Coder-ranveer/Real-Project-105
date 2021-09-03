@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+}
+.reg
+{
+   width: 80%;
+   font-size: 22px; 
+}
+
+.name,#resultobjname,#resultobjaccuracy
+{
+    color: rgb(0, 0, 0);
+}
+
+#camera
+{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
+
